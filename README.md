@@ -1,4 +1,4 @@
-# Tic Tac Toe Game in C++
+# Tic Tac Toe Game using C++
 
 Welcome to the Tic Tac Toe game project! This project is a simple implementation of the classic game Tic Tac Toe using C++. It provides a command-line interface for two players to compete in this well-known game of strategy.
 
